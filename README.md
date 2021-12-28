@@ -1,2 +1,2 @@
 # stateMachine
-Simple state machine implemented in Python.
+Simple passing state machine implemented in Python.
